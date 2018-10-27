@@ -8,8 +8,8 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 #tv-chart{
-  height: calc(600px);
-  width: calc(1000px);
+  height: calc(100vh);
+  width: calc(100%);
 }
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
