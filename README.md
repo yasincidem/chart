@@ -63,6 +63,6 @@ Make your changes on code
 
 To test your changes do **npm start**.It will be displayed on localhost:3000
 
-To get production build do **npm run build**.It will create build directory.
+To get production build do **npm run build**.It will create build folder.
 
-Get charting_library, static and index from build directory add these to public directory in your react app
+Get charting_library folder, static folder and index.html from build folder add these to public folder in your react app
