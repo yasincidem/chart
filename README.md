@@ -1,3 +1,8 @@
+### Demo https://thawing-waters-43695.herokuapp.com/
+
+CryptoCompare API may be blocked by CORS policy so try out the solution. (https://stackoverflow.com/a/42024918/6382158)
+  
+
 ### Interval
 * To change supported intervals in chart, modify the array https://github.com/yasincidem/chart/blob/cad09dcbd2d1039839e63edb92f33cb1917ed2f5/src/components/TVChartContainer/api/index.js#L5
 
